@@ -280,7 +280,7 @@ header{
     top: -60px;
 }
 
-.first-section{
+.back-svg{
     background-image: url(../images/gray-bg.svg);
     background-repeat: no-repeat;
     background-position-y: 70px;
@@ -364,6 +364,22 @@ header{
     height: 15px;
     margin-right: 5px;
 }
+
+.zarin-link{
+    width: 1170px;
+    margin: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.second-section-image{
+    width: 680px;
+    height: 530px;
+}
+
+
+
 
 
 
