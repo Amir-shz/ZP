@@ -34,3 +34,5 @@ showProductMenu.addEventListener('mouseleave', function (e) {
   const div = e.target.childNodes[5];
   div.style.display = 'none';
 });
+
+
